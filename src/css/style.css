@@ -156,6 +156,17 @@ body {
     text-align: center;
     color: #FFFFFF;
 }
+.tarrif__button_link {
+    display: block;
+    transform: translateY(25%);
+    width: 248px;
+    height: 52px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.tarrif__button_link:hover {
+    color: #FFFFFF;
+}
 .purple {
     background: #6A7395;
 }
