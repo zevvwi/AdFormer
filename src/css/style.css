@@ -94,3 +94,99 @@ body {
     width: 246px;
     margin: 0 auto;
 }
+.tariff {
+    padding-top: 143px;
+    background: #11161E;
+    min-height: 892px;
+}
+.tariff__header {
+    font-weight: 700;
+    font-size: 42px;
+    color: #FFFFFF;
+}
+.tariff__descr {
+    font-weight: 400;
+    font-size: 20px;
+    color: #6A7C95;
+    width: 514px;
+}
+
+.tariff__cards-wrapper {
+    margin-top: 118px;
+    display: flex;
+    justify-content: space-between;
+}
+.tariff__card {
+    width: 317px;
+    height: 298px;
+    background: #273140;
+    border-radius: 15px;
+}
+.tariff__card-header {
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 53px;
+}
+.tariff__subheader {
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    color: #717E92;
+}
+.tariff__card ul {
+    margin-left: 26px;
+}
+.tariff__card ul li {
+    font-weight: 400;
+    font-size: 16px;
+    color: #717E92;
+}
+.tarrif__button {
+    display: block;
+    width: 248px;
+    height: 52px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 45px;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.purple {
+    background: #6A7395;
+}
+.green {
+    background: #6A9590;
+}
+.yellow {
+    background: #95936A;
+}
+.want {
+    padding-top: 140px;
+    background: #181F29;
+    min-height: 532px;
+}
+.want__header {
+    font-weight: 700;
+    font-size: 42px;
+    color: #FFFFFF;
+}
+.want__subheader {
+    width: 565px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #6A7C95;
+}
+.want__subheader a {
+    color: #6A7C95;
+}
+.want__wrapper {
+    display: flex;
+}
+.want__about {
+    margin-right: 150px;
+}
