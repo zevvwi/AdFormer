@@ -51,3 +51,46 @@ body {
     font-size: 26px;
     color: #6A7C95;
 }
+.about {
+    min-height: 851px;
+    background: #181F29;
+    padding-top: 208px;
+}
+.about__header {
+    font-weight: 700;
+    font-size: 42px;
+    color: #FFFFFF;
+}
+.about__cards-wrapper {
+    margin-top: 118px;
+    display: flex;
+    justify-content: space-between;
+}
+.about__card {
+    width: 317px;
+    height: 340px;
+    background: #273140;
+    border-radius: 15px;
+}
+.about__card img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 90px;
+    height: 90px;
+}
+.about__card-header {
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.about__card-descr {
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #717E92;
+    width: 246px;
+    margin: 0 auto;
+}
