@@ -120,7 +120,7 @@ body {
 }
 .tariff__card {
     width: 317px;
-    height: 315px;
+    height: 300px;
     background: #273140;
     border-radius: 15px;
 }
@@ -145,6 +145,7 @@ body {
     font-weight: 400;
     font-size: 16px;
     color: #717E92;
+    width: 200px;
 }
 .tarrif__button {
     display: block;
@@ -152,8 +153,6 @@ body {
     height: 52px;
     border: none;
     border-radius: 5px;
-    margin: 0 auto;
-    margin-top: 45px;
     font-weight: 600;
     font-size: 18px;
     text-align: center;
@@ -161,11 +160,12 @@ body {
 }
 .tarrif__button_link {
     display: block;
-    transform: translateY(25%);
     width: 248px;
     height: 52px;
     color: #FFFFFF;
     text-decoration: none;
+    margin: 0 auto;
+    margin-top: 40px;
 }
 .tarrif__button_link:hover {
     color: #FFFFFF;
