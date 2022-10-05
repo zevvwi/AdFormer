@@ -202,6 +202,9 @@ body {
 .want__about {
     margin-right: 150px;
 }
+.form__wrapper {
+    width: 100%;
+}
 
 @media (max-width: 1024px) {
     .main-screen__header {
