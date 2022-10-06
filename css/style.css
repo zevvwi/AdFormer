@@ -157,6 +157,7 @@ body {
     font-size: 18px;
     text-align: center;
     color: #FFFFFF;
+    cursor: pointer;
 }
 .tarrif__button_link {
     display: block;
